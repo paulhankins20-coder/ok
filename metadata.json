@@ -1,0 +1,6 @@
+{
+  "name": "PostgreSQL Container App",
+  "description": "Full-stack application using standard PostgreSQL via Drizzle ORM and configured for plain Docker container deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
